@@ -1,0 +1,1 @@
+*/5 * * * * root python /opt/observium/poller-wrapper.py >> /dev/null 2>&1
